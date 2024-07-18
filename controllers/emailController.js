@@ -201,7 +201,8 @@ Arunalu Web Team`,
                 <p>Email: ${emailsset}</p>
                 <p>Phone: +94772187484</p>
                 <p>Address: 366/7, Pethiyagoda Road, Mulleriyawa New Town, Angoda</p>
-                <p>LinkedIn: <a href="www.linkedin.com/in/arunalu-bamunusinghe">Arunalu Bamunusinghe</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/arunalu-bamunusinghe" target="_blank">Arunalu Bamunusinghe</a></p>
+            </div>
             </div>
         </div>
         <div class="footer">
